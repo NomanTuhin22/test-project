@@ -1,6 +1,6 @@
 // ***********preloder F**********
 let loding_img = document.getElementById('loding_img');
-function loding(){
+function loading(){
     loding_img.style.display = 'none';
 }
 // **********navigation toggle btn F************
