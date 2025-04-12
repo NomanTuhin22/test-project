@@ -1,8 +1,8 @@
 // ***********preloder F**********
-// let loding_img = document.getElementById('loding_img');
-// function loding(){
-//     loding_img.style.display = 'none';
-// }
+let loding_img = document.getElementById('loding_img');
+function loding(){
+    loding_img.style.display = 'none';
+}
 // **********navigation toggle btn F************
 let toggle_btn = document.getElementById('toggle_btn');
 let nav = document.querySelector('.nav');
